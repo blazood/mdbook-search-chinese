@@ -1,0 +1,2 @@
+# mdbook-search-chinese
+
